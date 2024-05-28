@@ -1,7 +1,7 @@
 {
   "name": "PIQUE Cloud-dockerfile quality model",
   "additionalData": {
-    "projectName": "alpine:3.18"
+    "projectName": "test/alpine:3.18"
   },
   "global_config": {
     "benchmark_strategy": "calibration.NaiveCloudBenchmarker",
